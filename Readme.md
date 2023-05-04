@@ -1,4 +1,4 @@
-![Build](https://github.com/hypersign-protocol/JCS/actions/workflows/node.yml/badge.svg)
+![Build](https://github.com/hypersign-protocol/JCS/workflows/Build/badge.svg)
 
 
 # JSON Canonicalization Scheme (JCS)  [RFC 8785](https://www.rfc-editor.org/rfc/rfc8785)
