@@ -1,3 +1,6 @@
+https://github.com/hypersign-protocol/JCS/actions/workflows/node.yml/badge.svg
+
+
 # JSON Canonicalization Scheme (JCS)  [RFC 8785](https://www.rfc-editor.org/rfc/rfc8785)
 
 Canonicalization is the process of converting data that has more than one possible representation into a "standard" canonical representation.  This can be done to compare different representations for equivalence, to count the number of distinct data structures, to improve the efficiency of various algorithms by eliminating repeated calculations, or to make it possible to impose a meaningful sorting order.
