@@ -17,9 +17,7 @@
   ],
   "author": "Pratap Mridha",
   "license": "Apache-2.0",
-  "dev-dependencies": {
-    "fs": "0.0.1-security"
-  },
+ 
   "devDependencies": {
     "rimraf": "^5.0.0",
     "typescript": "^5.0.4"
